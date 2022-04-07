@@ -1,0 +1,10 @@
+class CVAL:
+    my_addr = "bigisland.business@gmail.com"
+    my_pass = "vtimcmvrnktbxyhp"
+    access_token = "ccf57ab093e929ae16c8b1a8253ae8c2-81597d22c2ee0a9312e96e4644e69f92"
+    accountID = "101-001-18324553-001" 
+    host="ec2-50-16-108-41.compute-1.amazonaws.com"
+    database="d382g5qv7f30fj"
+    user="ayeviyfmhbuktr"
+    password="46cee268a578eeb2c75271334baf539bf3cedaa9fb508f52a04e26e069c29d72"
+    port="5432"
